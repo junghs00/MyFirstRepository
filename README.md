@@ -1,4 +1,4 @@
-# MyFirstRepository
+# jung'sFirstRepository
 ## jung
 
 ```
